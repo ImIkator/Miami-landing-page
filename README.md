@@ -10,4 +10,4 @@
 ## Description
 Fully responsive landing page for real company
 
-- [DEMO]()
+- [DEMO](https://imikator.github.io/layout_miami/)
